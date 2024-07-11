@@ -12,3 +12,4 @@ Once the S3 bucket is created
   - create the following folder structure within S3 bucket
   -   <orders>
   -     <snapshot_day=2017-01-10>      
+upload the orders.csv file
