@@ -17,4 +17,7 @@ upload the orders.csv file
 using the GLUE SERVICES
 create a databse name <db_superstore>
 Now create a catalogue using the AWS crawler
+Create a crawler
+choose a data source 
+assign a role an IAM role 
 
