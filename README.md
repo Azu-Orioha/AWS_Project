@@ -9,4 +9,6 @@ Login using the <Test_user01>
 Create an S3 Bucket 
   - a cloud storage where all data is stored
 Once the S3 bucket is created
-  - create a folder within S3 bucket called orders
+  - create the following folder structure within S3 bucket
+  -   <orders>
+  -     <snapshot_day=2017-01-10>      
