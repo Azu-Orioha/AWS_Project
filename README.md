@@ -7,4 +7,6 @@ Grant the user AdministorAccess
 Log the <Root> user out
 Login using the <Test_user01>
 Create an S3 Bucket 
-  - a clous storage where all data is stored
+  - a cloud storage where all data is stored
+Once the S3 bucket is created
+  - create a folder with the bucket called orders
