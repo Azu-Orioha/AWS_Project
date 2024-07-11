@@ -13,3 +13,8 @@ Once the S3 bucket is created
   -   <orders>
   -     <snapshot_day=2017-01-10>      
 upload the orders.csv file
+
+using the GLUE SERVICES
+create a databse name <db_superstore>
+Now create a catalogue using the AWS crawler
+
