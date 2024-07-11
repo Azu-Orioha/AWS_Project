@@ -20,4 +20,5 @@ Now create a catalogue using the AWS crawler
 Create a crawler
 choose a data source 
 assign a role an IAM role 
+select the database create in (18)
 
