@@ -24,7 +24,14 @@ Once the S3 bucket is created
 upload the orders.csv file
 
 using the GLUE SERVICES
-create a databse name <db_superstore>
+
+# Create a Database 
+Database name is  "db_superstore_01"
+
+# Create a Tablee
+Database name is  "db_superstore_01"
+
+
 Now create a catalogue using the AWS crawler
 Create a crawler
 choose a data source 
