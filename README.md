@@ -29,7 +29,7 @@ using the GLUE SERVICES
 Database name is  "db_superstore_01"
 
 # Create a Crawler
-Crawler name is  "  "
+Crawler name is  "orders_project"
 
 # Create a Table
 Database name is  "db_superstore_01"
