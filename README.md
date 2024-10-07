@@ -3,7 +3,7 @@ An End to End AWS Project using AWS (S3, Glue, Athena, and Quicksight)
 
 Location of the CSV file importedinto the S3 Bucket <\DESKTOP\DATA ENGINEER\AWS\ATHENA\Superstore.csv>
 
-# S3 Bucket Name <my-s3-storages>
+# S3 Bucket Name "my-s3-storages"
 
 Instructions
 Create an Iam user <Test_user01> , using the <Root> User
