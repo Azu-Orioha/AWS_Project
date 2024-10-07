@@ -26,10 +26,10 @@ upload the orders.csv file
 using the GLUE SERVICES
 
 # Create a Database 
-Database name is  "db_superstore_01"
+Database name is  "db_superstore_02"
 
 # Create a Crawler
-Crawler name is  "orders_project"
+Crawler name is  "orders_project_03"
 
 # Create a Table
 Database name is  "db_superstore_01"
