@@ -28,7 +28,10 @@ using the GLUE SERVICES
 # Create a Database 
 Database name is  "db_superstore_01"
 
-# Create a Tablee
+# Create a Crawler
+Crawler name is  "  "
+
+# Create a Table
 Database name is  "db_superstore_01"
 
 
