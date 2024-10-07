@@ -1,6 +1,8 @@
 # AWS_Project
 An End to End AWS Project using AWS (S3, Glue, Athena, and Quicksight)
 
+# Location of the CSV file importedinto the S3 Bucket <\DESKTOP\DATA ENGINEER\AWS\ATHENA\Superstore.csv>
+
 # S3 Bucket Name <my-s3-storages>
 
 Instructions
