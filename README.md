@@ -1,6 +1,8 @@
 # AWS_Project
 An End to End AWS Project using AWS (S3, Glue, Athena, and Quicksight)
 
+# S3 Bucket Name <my-s3-storages>
+
 Instructions
 Create an Iam user <Test_user01> , using the <Root> User
 Grant the user AdministorAccess
